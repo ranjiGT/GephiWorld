@@ -15,6 +15,6 @@ Some Network Analysis made using Gephi.
 ![](https://github.com/ranjiGT/GephiWorld/blob/main/One-mode%20graph%20visualization.pdf)
 
 # Two-mode graph visualization
-
+![](https://github.com/ranjiGT/GephiWorld/blob/main/one-node.svg)
 
 ## Dataset: www.martingrandjean.ch/gephi-introduction
