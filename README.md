@@ -11,4 +11,7 @@ Some Network Analysis made using Gephi.
 # Institution-Members (1:n) network graph
 ![](https://github.com/ranjiGT/GephiWorld/blob/main/Ranjiraj-lecture1-gephi-img-13.png)
 
+# One-mode graph visualization
+![](https://github.com/ranjiGT/GephiWorld/blob/main/One-mode%20graph%20visualization.pdf)
+
 ## Dataset: www.martingrandjean.ch/gephi-introduction
