@@ -1,5 +1,5 @@
 # GephiWorld
-Some Network Analysis made using Gephi
+Some Network Analysis made using Gephi. Plugins used, `GeoLayout`, `NooverlapLayout`, `Multimode Networks Transformation`
 
 ![](https://github.com/ranjiGT/GephiWorld/blob/main/Gephi-Linkedin-Network-Analysis.png)
 
