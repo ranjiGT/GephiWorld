@@ -6,7 +6,7 @@ Some Network Analysis made using Gephi.
 # One-mode graph visualization
 ![](https://github.com/ranjiGT/GephiWorld/blob/main/one-node.svg)
 
-# Two-mode graph visualization (LinkdedIn Network Analysis)
+# Two-mode graph visualization (LinkedIn Network Analysis)
 ![]()
 
 # Node Labeling in Network graph
