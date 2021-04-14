@@ -1,5 +1,7 @@
 # GephiWorld
-Some Network Analysis made using Gephi. Plugins used, `GeoLayout`, `NoverlapLayout`, `Multimode Networks Transformation`
+Some Network Analysis made using Gephi. 
+- Plugins used: `GeoLayout`, `NoverlapLayout`, `Multimode Networks Transformation`
+- Algorithms used: `Fruchterman Reingold`, `Force Atlas 2`
 
 ![](https://github.com/ranjiGT/GephiWorld/blob/main/Gephi-Linkedin-Network-Analysis.png)
 
