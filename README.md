@@ -8,3 +8,5 @@ Some Network Analysis made using Gephi. Plugins used, `GeoLayout`, `NoverlapLayo
 
 # Institution-Members (1:n) network graph
 ![](https://github.com/ranjiGT/GephiWorld/blob/main/Ranjiraj-lecture1-gephi-img-13.png)
+
+## Dataset: www.martingrandjean.ch/gephi-introduction
