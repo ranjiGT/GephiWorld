@@ -18,7 +18,3 @@ Some Network Analysis made using Gephi.
 
 ## Dataset: www.martingrandjean.ch/gephi-introduction
 
-**_my text_**
-***my text***
-_**my text**_
-___my text___
